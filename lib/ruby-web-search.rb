@@ -1,6 +1,6 @@
 require 'rubygems'
-require 'CGI'
-require 'JSON'
+require 'cgi'
+require 'json'
 
 # begin
 #   gem 'curb'
